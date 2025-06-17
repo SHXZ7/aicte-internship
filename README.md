@@ -53,17 +53,8 @@ Open data_week1.ipynb in Jupyter Notebook or VS Code.
 
 🚀 Output
 Trained a predictive model to estimate carbon emissions based on selected features.
-
 Performed basic visualizations to explore relationships between variables.
-
 Prepared cleaned data ready for further analysis.
 
-📌 Notes
-If you encounter an xlrd error, install it via:
-
-bash
-Copy
-Edit
-pip install xlrd==2.0.1
 🙌 Acknowledgments
 This project is part of the AICTE Internship Program for gaining hands-on experience in climate analytics and data science.
